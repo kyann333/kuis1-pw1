@@ -33,6 +33,14 @@ border-radius:8px;
 padding:10px;
 }
 
+.h2{
+    text-align: center;
+}
+
+.h7{
+    text-align: center;
+}
+
 .row{
 clear:both;
 }
@@ -60,7 +68,10 @@ color:blue;
 width:25%;
 float:left;
 }
-
+.col-md-12{
+width:12%;
+float:left;
+}
 .col-md-50{
 width:50%;
 float:left;
