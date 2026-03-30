@@ -5,7 +5,7 @@ box-sizing:border-box;
 body{
 font-family:Arial;
 margin:0;
-background:#0b3b4a;
+background:#dee8eb;
 color:white;
 }
 
@@ -77,12 +77,13 @@ float:left;
 @media screen and (min-width:992px){
 
 .col-lg-12{
-width:10%;
+width:12%;
 float:left;
 }
 
 .col-lg-25{
 width:25%;
+height: 50%;
 float:left;
 }
 
